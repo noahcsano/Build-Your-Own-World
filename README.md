@@ -2,6 +2,9 @@
 
 UC Berkeley CS61B - "Data Structures and Algorithms" Project 
 
+Language: Java
+Libraries/Packages: StdDraw, java.io.Serializable, java.io.Array, java.io.Random, and other provided utility libraries.
+
 For this project, we implemented an engine for generating random 2-dimensional explorable worlds. 
 The requirements for the outputs of the random worlds were the following:
   The world must be a 2D grid, drawn using our tile engine. 
